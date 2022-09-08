@@ -1,0 +1,100 @@
+a {
+    text-decoration: none;
+}
+
+li {
+    list-style: none;
+}
+
+.dino {
+    width: 100%;
+    float: left;
+    margin-top: 50px;
+}
+
+li.nav-item {
+    padding-left: 20px;
+}
+
+img.card-img-top {
+    max-height: 215px;
+}
+
+.d-flex {
+    background: #f97e2a;
+    border-radius: 7px;
+    padding: 7px;
+}
+
+.d-flex a {
+    color: #fff;
+}
+
+.navbar-brand img {
+    width: 50px;
+}
+
+.themecolor {
+    color: #f97e2a !important;
+}
+
+.form-group.mt-3 button {
+    color: #fff;
+    background: #f97e2a;
+    padding: 10px 15px;
+    border-radius: 20px;
+    font-size: 13px;
+    border: none;
+}
+
+img.img-fluid.menu-image {
+    margin-right: 25px;
+    float: left;
+}
+
+.blog-img p {
+    text-align: justify;
+    font-size: 18px;
+}
+
+.form {
+    box-shadow: 0px 0px 8px 0px rgb(0 0 0 / 8%);
+}
+
+.show {
+    margin: 50px 0px 50px 0;
+    width: 100%;
+    float: left;
+}
+
+button.btn.btn-light {
+    color: #fff;
+    background: #f97e2a;
+    padding: 10px 15px;
+    border-radius: 20px;
+    font-size: 13px;
+    margin-bottom: 30px;
+}
+
+.form-group {
+    margin: 20px 0;
+    padding: 10px;
+}
+
+.myfooter {
+    width: 100%;
+    float: left;
+}
+
+h4.card-title a {
+    color: #000;
+}
+
+section.mycolor {
+    background: #f97e2a;
+    padding: 30px;
+    color: #000;
+}
+
+
+
